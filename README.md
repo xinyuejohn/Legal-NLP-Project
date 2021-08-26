@@ -2,20 +2,6 @@
 
 Developed a system for US BVA (Board of Veteran's Appeals) decisions, which can be used to automate sentence annotations on BVA decisions.
 
-## Dataset
-
-99 BVA decisions with annotations, including 33 granted, 33 denied, and 33 amended decisions. The annotation with a type system has been inspired by existing work on BVA opinions. 
-
-101k BVA decisions without annotations, which used for development of word embeddings.
-
-
-
-
-
-# Legal-NLP-Project
-
-Developed a system for US BVA (Board of Veteran's Appeals) decisions, which can be used to automate sentence annotations on BVA decisions.
-
 ## Dependencies
 
 * Python 3
