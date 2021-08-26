@@ -21,7 +21,7 @@ Developed a system for US BVA (Board of Veteran's Appeals) decisions, which can 
 * Python 3
 * Spacy
 * Fasttext
-* LUIMA SBD
+* LUIMA SBD (https://github.com/jsavelka/luima_sbd.git)
 
 ## Usage
 
